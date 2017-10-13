@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 12, 2017
 
 ### Student Name:  
-(First and Last Name)
+Drew Hobson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment creates a life expenses calculator that takes in user-input values and returns 
+a total of all of the users expenses as well as the percentage each category takes up in the total costs.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://hobsondrew.github.io/lesson4_Javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this project, I learned how to properly syntax my code so that my calculations are run efficiently and properly.
+2. In this project, I learned how to convert user's strings to floats.
+3. In this project, I learned how to find an element and use it through the getElementById() form.
 
